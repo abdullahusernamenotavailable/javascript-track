@@ -18,3 +18,6 @@
 //slice -> slices a part of array and prints
 //splice -> changes the original array
 
+//use concat instead push or use ...<name ,arr>
+// .flat(infinity) - >  when array inside of array
+//create array -> array.og()
